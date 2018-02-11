@@ -1,3 +1,10 @@
+/**
+ * assignment_operator.c
+ *
+ * Written by Billy Wilson Arante <arantebillywilson@gmail.com>
+ * Last updated on 2018/02/11 PHT
+ */
+
 #include <stdio.h>
 
 int main()
